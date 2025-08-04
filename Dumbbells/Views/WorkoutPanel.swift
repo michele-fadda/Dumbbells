@@ -1,3 +1,9 @@
+//
+//  WorkoutPane;.swift
+//  DumbBells
+//
+// Created by Michele Fadda on 02/08/2025.
+//
 import SwiftUI
 
 struct WorkoutPanel: View {

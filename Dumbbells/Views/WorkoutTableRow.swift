@@ -1,17 +1,10 @@
-
 //
 //  WorkoutTableRow.swift
 //  DumbBells
 //
 //  Created by Michele Fadda on 02/08/2025.
 //
-
-//
-//  WorkoutTableRow.swift
-//  DumbBells
-//
 //  Enhanced with completion status and non-interactive checkboxes
-//
 
 import SwiftUI
 

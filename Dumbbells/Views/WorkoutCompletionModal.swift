@@ -4,6 +4,7 @@
 //
 //  Created by Michele Fadda on 03/08/2025.
 //
+// added completion times for exercises
 
 import SwiftUI
 
